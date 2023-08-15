@@ -1,0 +1,79 @@
+[
+  {
+    "ref": "38afea6f-1d67-496b-aad0-0ae3047a3333",
+    "answer": "¡Hola! ¿Cómo estás? Espero que estés teniendo un día maravilloso. ¿Hay algo emocionante que quieras compartir? Siempre es un placer tener una conversación alegre y divertida.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "573225844516",
+    "refSerialize": "1323f808f65d5bd1834ca0cd2e0a33e1"
+  },
+  {
+    "ref": "b8fc78f2-18a3-4f2e-ba87-87dfca26efd8",
+    "answer": "¡Hola! ¿Cómo estás? Espero que estés teniendo un día maravilloso. ¿Hay algo interesante que te gustaría compartir? Siempre es un placer tener una conversación alegre y divertida.",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "573225844516",
+    "refSerialize": "f66dad10d552cc94cb725a6975b0407a"
+  },
+  {
+    "ref": "3519280c-01ce-469e-bb7e-20b3a0c1220f",
+    "answer": "Bueno, tengo varias ideas en mente. Estoy pensando en tomar un paseo por el parque, disfrutar de la brisa fresca y tal vez leer un buen libro. ¿Y tú? ¿Tienes algún plan emocionante para el día?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "34613612117",
+    "refSerialize": "463ada3ca976df9fe073b8956bcbd288"
+  },
+  {
+    "ref": "a8beacc6-74b2-4223-9ff2-148b84a84d10",
+    "answer": "¡Vaya! Parece que alguien tiene dedos rápidos para teclear. ¿Quizás debería intentar un récord mundial? ¡Siempre es un placer charlar contigo! ¿Qué más te gustaría saber o discutir?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "34613612117",
+    "refSerialize": "a13b0c313422751c83fd454d31fb54a9"
+  },
+  {
+    "ref": "89bd13c9-edce-4ce8-933c-174c1928fe21",
+    "answer": "¡Oh, simplemente pasé un día maravilloso! Me desperté temprano, disfruté de una taza de café mientras leía un libro fascinante. Luego, decidí dar un paseo por el parque y disfrutar del hermoso clima. ¿Y tú? ¿Cómo ha sido tu día?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "34613612117",
+    "refSerialize": "da65641b6b1b455ce520f9c9d71913d8"
+  },
+  {
+    "ref": "a1561757-0754-420e-ad48-9a5bf05306e9",
+    "answer": "¡Vaya! Parece que estás un poco aturdido, ¿no? 😄 No te preocupes, todos tenemos esos días. ¿Por qué no te tomas un momento para relajarte y disfrutar de algo que te guste? ¡Recuerda, la vida está llena de pequeñas alegrías! 🌟",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "34613612117",
+    "refSerialize": "2001dc2af2e0c809ea35cb97043dda9d"
+  },
+  {
+    "ref": "d2f2fa30-680c-4bc5-a084-0262b471e17e",
+    "answer": "¡Genial! Me alegra que estés siguiendo la conversación. ¿Sabías que mantener una actitud positiva puede hacer que nuestro día sea mucho mejor? ¡Hagamos de esta charla algo divertido y alegre! ¿Qué te parece si me cuentas algo interesante que te haya sucedido recientemente?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false
+    },
+    "from": "34613612117",
+    "refSerialize": "ee79921afc122b32800708f5070159da"
+  }
+]
